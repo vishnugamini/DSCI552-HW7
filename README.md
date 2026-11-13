@@ -8,5 +8,5 @@ bundled UCI data and writes tables and predictions to `results/`.
 
 ## AI disclosure
 
-ChatGPT assisted with planning, coding, drafting explanations, debugging,
-and checking results.
+ChatGPT assisted with understanding the material, checking code, debugging,
+and reviewing results.
